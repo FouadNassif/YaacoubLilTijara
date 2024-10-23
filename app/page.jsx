@@ -17,7 +17,7 @@ const page = () => {
         ))}
       </div>
       <Contact />
-      {/* <Footer /> */}
+      <Footer />
     </main>
   );
 };

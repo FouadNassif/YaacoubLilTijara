@@ -12,7 +12,7 @@ const Hero = () => {
         <p className="hero-description" translate="no">
           <span className="turbo-text"> TURBO </span>مبيع و صيانة جميع انواع
         </p>
-        <p className="hero-subtext" translate="no">بري و بحري</p>
+        <p className="hero-subtext" translate="no">بري  <span className="tab_sapce"></span>و<span className="tab_sapce"></span>  بحري</p>
       </div>
     </div>
   );

@@ -67,7 +67,7 @@ nav h2 {
     top: 0;
     left: 0;
     right: 0;
-    bottom: 0;
+    bottom: 5.5px;
     background-color: rgba(0, 0, 0, 0.55); /* Black with 50% opacity */
     display: flex;
     flex-direction: column;
@@ -300,5 +300,8 @@ nav h2 {
 
 .map-container {
   flex-direction: column;
+}
+.contact-container {
+  width: 90%;
 }
 }
